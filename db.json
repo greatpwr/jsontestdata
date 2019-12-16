@@ -1,13 +1,17 @@
 [
   {
-    "premiumRanges1": "250",
-    "premiumGrowthRateYoY1": -10,
-    "incentive": "0"
+    "userId": 1,
+    "id": 1,
+    "title": "quidem molestiae enim"
   },
   {
-    "premiumRanges1": "350",
-    "premiumGrowthRateYoY1": -5,
-    "incentive": "0"
+    "userId": 1,
+    "id": 2,
+    "title": "sunt qui excepturi placeat culpa"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "omnis laborum odio"
   }
 ]
-  
